@@ -59,7 +59,7 @@ app.get('/scrape', function(req, res){
 
     var bigObj = {table : []};
 
-    for(i = 1; i < 6; i++) {
+    for(i = 0; i <= 5; i++) {
         var url = restaurants[i];
 
         request(url, function (error, response, html) {
@@ -79,17 +79,20 @@ app.get('/scrape', function(req, res){
                     //console.log(itemDetails);
 
                     var link = $(this).attr('href');
+                    //console.log(loc);
+                    console.log(name + "\t\t" + link);
 
                     var veg = $(this).next().attr('alt');
 
                     var fullLink = "https://hdh.ucsd.edu/DiningMenus/" + link.toString();
-
+                    console.log("\t\t" + fullLink);
                     var myObj = {
                         name: name,
                         loc: loc,
-                        cal: fullLink,
+                        nutLink: fullLink,
                         price: price,
-                        diet: veg
+                        diet: veg,
+                        cal: ""
                     };
 
                     bigObj.table.push(myObj);
@@ -98,8 +101,8 @@ app.get('/scrape', function(req, res){
                     //console.log("table size: " + bigObj.table.length);
 
 
-                    fs.writeFile('fuck.json', JSON.stringify(bigObj.table, null, 4), function(err){
-                        console.log(name + " was added to fuck.json");
+                    fs.writeFile('final2.json', JSON.stringify(bigObj, null, 4), function(err){
+                       // console.log(name + " was added to fuck.json");
                     })
 
 
@@ -126,17 +129,42 @@ app.get('/iterate', function(req, res) {
 
 });
 
+app.get('/calories', function(req, res) {
+    var file = require("./final.json");
+    var obj = file.table;
+    for (var ind in obj) {
+        var myObj = obj[ind];
+        //console.log("food item: " + myObj.name);
+        var url = obj[ind].nutLink;
+        console.log("url: " + url);
+        request(url, function (error, response, html) {
+            if (!error) {
+                var $ = cheerio.load(html);
+
+                var calories = $('#lblItemHeader').text();
+
+                myObj.cal = calories;
+
+                console.log("name: " + myObj.name + "cals: " + calories);
+
+            }
+        })
+    }
+
+    res.send("check log pls.");
+});
+
 app.get('/convert', function(req, res) {
 
     var sqlite3 = require('sqlite3').verbose();
-    var db = new sqlite3.Database('tab');
+    var db = new sqlite3.Database('data.db');
 
-    var json = require("./fuck.json");
-    var foods = json.fuck;
+    var json = require("./final2.json");
+    var foods = json.table;
     db.serialize(function() {
-        db.run("CREATE TABLE tab (name TEXT, loc TEXT, cal TEXT, price TEXT, diet TEXT)");
+        db.run("CREATE TABLE items (item TEXT, location TEXT, calories INTEGER, price REAL, dietary TEXT, nutLink TEXT)");
 
-        var stmt = db.prepare("INSERT INTO tab VALUES (?,?,?,?,?)");
+        var stmt = db.prepare("INSERT INTO items VALUES (?,?,?,?,?,?)");
 
         for(var ind in foods){
             var n = foods[ind].name;
@@ -144,13 +172,14 @@ app.get('/convert', function(req, res) {
             var c = foods[ind].cal;
             var p = foods[ind].price;
             var d = foods[ind].diet;
+            var nl = foods[ind].nutLink;
 
-            stmt.run(n, l, c, p, d);
+            stmt.run(n, l, c, p, d, nl);
         }
         stmt.finalize();
 
-        db.each("SELECT name, loc FROM tab", function(err, row) {
-            console.log("food: "+ row.name + "|| loc: " + row.loc);
+        db.each("SELECT name, loc FROM items", function(err, row) {
+            //console.log("food: "+ row.name + "|| loc: " + row.location);
         });
     });
 

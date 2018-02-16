@@ -1,0 +1,5221 @@
+{
+    "table": [
+        {
+            "name": "Corned Beef Hash and Eggs  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808289",
+            "price": "2.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Side  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808290",
+            "price": "0.85",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Barnyard Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808291",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808292",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Dietitian's Delight  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808293",
+            "price": "3.95",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Pork Sausage Links Side  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808294",
+            "price": "0.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sausage  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808295",
+            "price": "1.09",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Country Potatoes  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808296",
+            "price": "1.65",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Ham, Egg, and Cheese Sandwich  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808297",
+            "price": "2.25",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808298",
+            "price": "1.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Barnyard Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808299",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808300",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Pastrami Reuben Sandwich  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808301",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808302",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808303",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808304",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Herbed Chicken Sandwich  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808305",
+            "price": "5.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808306",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "French Fries  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808307",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Sweet Potato Fries  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808308",
+            "price": "2.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Chocolate Milkshake  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808309",
+            "price": "3.64",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Strawberry Milkshake  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808310",
+            "price": "3.64",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Vanilla Milkshake  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808311",
+            "price": "3.64",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Lemon Herbed Turkey Breast  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808324",
+            "price": "4.75",
+            "cal": ""
+        },
+        {
+            "name": "Tangy Chicken  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808325",
+            "price": "4.75",
+            "cal": ""
+        },
+        {
+            "name": "Cauliflower Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808328",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "House Side Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808329",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Poblano Au Gratin  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808330",
+            "price": "2.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Cauliflower  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808331",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Seared Kale  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808332",
+            "price": "2.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Watermelon Caprese Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808333",
+            "price": "2.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Kale Chicken Caesar Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808312",
+            "price": "8.50",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808326",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808327",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Baja ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808337",
+            "price": "Fish-Less",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Carne Asada Street Taco  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808338",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Carnitas Street Taco Plate ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808339",
+            "price": "1",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Chicken Taco  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808340",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Taco Trio  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808341",
+            "price": "7.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Crunchy Orange Chicken  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808334",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Pork Bowl  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808335",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Pork Potstickers  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808336",
+            "price": "3.75",
+            "cal": ""
+        },
+        {
+            "name": "Barnyard Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808345",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808346",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Pastrami Reuben Sandwich  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808347",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808348",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808349",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808350",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Herbed Chicken Sandwich  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808351",
+            "price": "5.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Burger  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808352",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "French Fries  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808353",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Sweet Potato Fries  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808354",
+            "price": "2.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Chocolate Milkshake  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808355",
+            "price": "3.64",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Strawberry Milkshake  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808356",
+            "price": "3.64",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Vanilla Milkshake  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808357",
+            "price": "3.64",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Salmon  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808370",
+            "price": "7.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Pork Porterhouse  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808371",
+            "price": "7.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Cauliflower Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808374",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "House Side Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808375",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Poblano Au Gratin  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808376",
+            "price": "2.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Cauliflower  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808377",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Seared Kale  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808378",
+            "price": "2.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Watermelon Caprese Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808379",
+            "price": "2.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Kale Chicken Caesar Salad  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808358",
+            "price": "8.50",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808372",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808373",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Baja ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808383",
+            "price": "Fish-Less",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Carne Asada Street Taco  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808384",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Carnitas Street Taco Plate ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808385",
+            "price": "1",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Chicken Taco  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808386",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Taco Trio  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808387",
+            "price": "7.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Crunchy Orange Chicken  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808380",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Pork Bowl  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808381",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Pork Potstickers  ",
+            "loc": "64 Degrees",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240808382",
+            "price": "3.75",
+            "cal": ""
+        },
+        {
+            "name": "Egg,Sausage & Cheese Sandwich V4U  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807274",
+            "price": "2.25",
+            "cal": ""
+        },
+        {
+            "name": "Egg and Vegetable Casserole  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807275",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Belgian Waffles  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807276",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807277",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Breakfast Burrito Vegetarian w/o Protein  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807278",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Breakfast Quesadilla  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807279",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Dietitian's Delight  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807280",
+            "price": "3.95",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Loco Moco Island Plate  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807281",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807282",
+            "price": "1.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Side  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807283",
+            "price": "0.85",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Beans  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807284",
+            "price": "1.65",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Biscuit  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807285",
+            "price": "0.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cage Free Scrambled Eggs  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807286",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Country Potatoes  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807287",
+            "price": "1.65",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Tortillas  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807288",
+            "price": "0.45",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pork Sausage Links Side  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807289",
+            "price": "0.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Sausage Gravy  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807290",
+            "price": "0.50",
+            "cal": ""
+        },
+        {
+            "name": "Scrambled Egg Whites  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807291",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Texas French Toast ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807292",
+            "price": "1",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sausage  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807293",
+            "price": "1.09",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cut Fresh Fruit  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807294",
+            "price": "0.34",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Apple  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807295",
+            "price": "0.79",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Banana  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807296",
+            "price": "0.49",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Orange  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807297",
+            "price": "0.59",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Yogurt Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807298",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Carne Asada Taco  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807299",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Carnitas Street Taco  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807300",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Fish-LessTacos  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807301",
+            "price": "3.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Chicken Street Taco  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807302",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Taco Trio  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807303",
+            "price": "7.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Beans  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807304",
+            "price": "1.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chips and Salsa Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807305",
+            "price": "3.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Spanish Rice  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807306",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Banh Mi Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807307",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Pork Banh Mi Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807308",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Seared Tofu Banh Mi Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807309",
+            "price": "7.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Avocado Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807310",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807311",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807312",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Breast Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807313",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807320",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807314",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807315",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807316",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807317",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807318",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807319",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807321",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy Onion Rings  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807322",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Deli Station Turkey  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807323",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "BBQ Chicken Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807324",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807325",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807326",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807327",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807328",
+            "price": "2.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807329",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hawaiian Mac Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807330",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Lentil Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807331",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "California Roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807332",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Krab Dynamite roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807333",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Tuna Roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807334",
+            "price": "6.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Tofu and Avocado Roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807335",
+            "price": "6.95",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "V4U Grilled Cheese Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807336",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Beans",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807337",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chile Verde Pork  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807338",
+            "price": "4.50",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Nopales Enchiladas  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807339",
+            "price": "5.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Spanish Rice",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807340",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Texas Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807341",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807342",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807343",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807350",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807351",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Breast Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807344",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807345",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807346",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807347",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807348",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807349",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807352",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy Onion Rings  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807353",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Chicken Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807354",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807355",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "The Works Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807356",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807357",
+            "price": "2.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807358",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hawaiian Mac Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807359",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Lentil Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807360",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807361",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807362",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "V4U Grilled Cheese Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807363",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Egg,Sausage & Cheese Sandwich V4U  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807274",
+            "price": "2.25",
+            "cal": ""
+        },
+        {
+            "name": "Egg and Vegetable Casserole  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807275",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Belgian Waffles  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807276",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807277",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Breakfast Burrito Vegetarian w/o Protein  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807278",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Breakfast Quesadilla  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807279",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Dietitian's Delight  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807280",
+            "price": "3.95",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Loco Moco Island Plate  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807281",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807282",
+            "price": "1.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Side  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807283",
+            "price": "0.85",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Beans  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807284",
+            "price": "1.65",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Biscuit  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807285",
+            "price": "0.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cage Free Scrambled Eggs  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807286",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Country Potatoes  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807287",
+            "price": "1.65",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Tortillas  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807288",
+            "price": "0.45",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pork Sausage Links Side  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807289",
+            "price": "0.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Sausage Gravy  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807290",
+            "price": "0.50",
+            "cal": ""
+        },
+        {
+            "name": "Scrambled Egg Whites  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807291",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Texas French Toast ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807292",
+            "price": "1",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sausage  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807293",
+            "price": "1.09",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cut Fresh Fruit  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807294",
+            "price": "0.34",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Apple  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807295",
+            "price": "0.79",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Banana  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807296",
+            "price": "0.49",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Orange  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807297",
+            "price": "0.59",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Yogurt Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807298",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Carne Asada Taco  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807299",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Carnitas Street Taco  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807300",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Fish-LessTacos  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807301",
+            "price": "3.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Chicken Street Taco  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807302",
+            "price": "3.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Taco Trio  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807303",
+            "price": "7.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Beans  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807304",
+            "price": "1.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chips and Salsa Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807305",
+            "price": "3.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Spanish Rice  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807306",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Banh Mi Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807307",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Pork Banh Mi Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807308",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Seared Tofu Banh Mi Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807309",
+            "price": "7.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Avocado Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807310",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807311",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807312",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Breast Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807313",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807320",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807314",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807315",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807316",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807317",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807318",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807319",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807321",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy Onion Rings  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807322",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Deli Station Turkey  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807323",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "BBQ Chicken Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807324",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807325",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807326",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807327",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807328",
+            "price": "2.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807329",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hawaiian Mac Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807330",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Lentil Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807331",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "California Roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807332",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Krab Dynamite roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807333",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Tuna Roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807334",
+            "price": "6.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Tofu and Avocado Roll  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807335",
+            "price": "6.95",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "V4U Grilled Cheese Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807336",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Beans",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807337",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chile Verde Pork  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807338",
+            "price": "4.50",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Nopales Enchiladas  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807339",
+            "price": "5.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Spanish Rice",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807340",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Texas Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807341",
+            "price": "8.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807342",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807343",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807350",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807351",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Breast Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807344",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807345",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807346",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807347",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807348",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807349",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807352",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy Onion Rings  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807353",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Chicken Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807354",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807355",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "The Works Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807356",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Pizza  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807357",
+            "price": "2.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807358",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hawaiian Mac Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807359",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Lentil Salad",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807360",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807361",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807362",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "V4U Grilled Cheese Sandwich  ",
+            "loc": "Canyon Vista",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240807363",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Belgian Waffles  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806012",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "English Muffin Bacon Breakfast Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806013",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "English Muffin Sausage Breakfast Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806014",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "English Muffin Veg Sausage Breakfast Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806015",
+            "price": "4.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Salmon Bagel Bar  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806016",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806017",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806018",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806019",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Salmon Bagel Bar  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806020",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806021",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806022",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Cheese Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806023",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Ham Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806024",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Roast Beef Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806025",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Tuna Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806026",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806027",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806028",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich w/ Hummus  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806029",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806030",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "BYO Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806031",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Blue Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806032",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Caesar Chicken Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806033",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "California Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806034",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Caesar Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806035",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806036",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Mandarin Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806037",
+            "price": "6.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Sesame Chicken Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806038",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Southwest Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806039",
+            "price": "6.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Caprese Personal Pizza  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806040",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Meat Lover's Personal Pizza  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806041",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Meatball Sub  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806042",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni Personal Pizza  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806043",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806044",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Tuscan Chicken Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806045",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Cheese Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806046",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Ham Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806047",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Roast Beef Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806048",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Tuna Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806049",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806050",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806051",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich w/ Hummus  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806052",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled NY Steak Strip  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806053",
+            "price": "8.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Baby Bok Choy  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806054",
+            "price": "2.75",
+            "cal": ""
+        },
+        {
+            "name": "Jasmine Rice  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806055",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Mexican Style Grilled Corn on the Cobb  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806056",
+            "price": "3.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806057",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "BYO Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806058",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Blue Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806059",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Caesar Chicken Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806060",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "California Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806061",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Caesar Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806062",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806063",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Mandarin Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806064",
+            "price": "6.50",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Sesame Chicken Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806065",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Southwest Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806066",
+            "price": "6.50",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Personal Pizzas ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806067",
+            "price": "Pepperoni Example",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806068",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Tuscan Chicken Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806069",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Belgian Waffles  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806012",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "English Muffin Bacon Breakfast Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806013",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "English Muffin Sausage Breakfast Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806014",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "English Muffin Veg Sausage Breakfast Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806015",
+            "price": "4.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Salmon Bagel Bar  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806016",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806017",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806018",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806019",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Salmon Bagel Bar  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806020",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806021",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Bagel  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806022",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Cheese Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806023",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Ham Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806024",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Roast Beef Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806025",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Tuna Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806026",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806027",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806028",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich w/ Hummus  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806029",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806030",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "BYO Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806031",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Blue Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806032",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Caesar Chicken Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806033",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "California Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806034",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Caesar Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806035",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806036",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Mandarin Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806037",
+            "price": "6.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Sesame Chicken Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806038",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Southwest Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806039",
+            "price": "6.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Caprese Personal Pizza  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806040",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Meat Lover's Personal Pizza  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806041",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Meatball Sub  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806042",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni Personal Pizza  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806043",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806044",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Tuscan Chicken Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806045",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Cheese Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806046",
+            "price": "2.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Ham Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806047",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Roast Beef Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806048",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Tuna Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806049",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Turkey Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806050",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806051",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sandwich w/ Hummus  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806052",
+            "price": "6.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled NY Steak Strip  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806053",
+            "price": "8.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Baby Bok Choy  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806054",
+            "price": "2.75",
+            "cal": ""
+        },
+        {
+            "name": "Jasmine Rice  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806055",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Mexican Style Grilled Corn on the Cobb  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806056",
+            "price": "3.75",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806057",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "BYO Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806058",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Blue Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806059",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Caesar Chicken Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806060",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "California Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806061",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Caesar Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806062",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806063",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Mandarin Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806064",
+            "price": "6.50",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Sesame Chicken Wrap  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806065",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Southwest Cobb Salad  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806066",
+            "price": "6.50",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Personal Pizzas ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806067",
+            "price": "Pepperoni Example",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806068",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Tuscan Chicken Soup  ",
+            "loc": "Foodworx",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806069",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Ham Scramble Skillet  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790041",
+            "price": "2.95",
+            "diet": "gluten friendly item",
+            "cal": "243"
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790042",
+            "price": "3.95",
+            "cal": "507"
+        },
+        {
+            "name": "Breakfast Burrito Vegetarian w/o Protein  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790043",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": "1022"
+        },
+        {
+            "name": "Breakfast Quesadilla",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790044",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": "912"
+        },
+        {
+            "name": "Dietitian's Delight",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790045",
+            "price": "3.95",
+            "diet": "dietitian approved item",
+            "cal": "239"
+        },
+        {
+            "name": "Ham, Egg, and Cheese Sandwich",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790046",
+            "price": "2.25",
+            "cal": "477"
+        },
+        {
+            "name": "Bacon Side",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790047",
+            "price": "0.85",
+            "diet": "gluten friendly item",
+            "cal": "39"
+        },
+        {
+            "name": "Beans",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790048",
+            "price": "1.65",
+            "diet": "vegetarian item",
+            "cal": "204"
+        },
+        {
+            "name": "Biscuit",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790049",
+            "price": "0.95",
+            "diet": "vegetarian item",
+            "cal": "310"
+        },
+        {
+            "name": "Cage Free Scrambled Eggs  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790050",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": "136"
+        },
+        {
+            "name": "Fresh Tortillas  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790051",
+            "price": "0.45",
+            "diet": "vegetarian item",
+            "cal": "116"
+        },
+        {
+            "name": "Pork Sausage Links Side  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790052",
+            "price": "0.95",
+            "diet": "gluten friendly item",
+            "cal": "268"
+        },
+        {
+            "name": "Sausage Gravy  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790053",
+            "price": "0.50",
+            "cal": "137"
+        },
+        {
+            "name": "Scrambled Egg Whites  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790054",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": "66"
+        },
+        {
+            "name": "Tater Barrels  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790055",
+            "price": "1.65",
+            "diet": "vegan item",
+            "cal": "333"
+        },
+        {
+            "name": "Veggie Sausage  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790056",
+            "price": "1.09",
+            "diet": "vegetarian item",
+            "cal": "193"
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790057",
+            "price": "1.95",
+            "diet": "vegetarian item",
+            "cal": "639"
+        },
+        {
+            "name": "Whole Apple  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790058",
+            "price": "0.79",
+            "diet": "vegan item",
+            "cal": "72"
+        },
+        {
+            "name": "Whole Banana  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790059",
+            "price": "0.49",
+            "diet": "vegan item",
+            "cal": "115"
+        },
+        {
+            "name": "Whole Orange  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790060",
+            "price": "0.59",
+            "diet": "vegan item",
+            "cal": "55"
+        },
+        {
+            "name": "Cut Fresh Fruit  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790061",
+            "price": "0.34",
+            "diet": "vegan item",
+            "cal": "13"
+        },
+        {
+            "name": "Yogurt Bar  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790062",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": "54"
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790063",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": "200"
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790064",
+            "price": "4.50",
+            "cal": "657"
+        },
+        {
+            "name": "Hot Dog  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790065",
+            "price": "2.25",
+            "cal": "382"
+        },
+        {
+            "name": "Sweet Potato Fries  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790066",
+            "price": "2.75",
+            "diet": "vegan item",
+            "cal": "201"
+        },
+        {
+            "name": "Value 4 U Hamburger  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790067",
+            "price": "2.25",
+            "cal": "395"
+        },
+        {
+            "name": "BBQ Pulled Pork Sandwich  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790068",
+            "price": "5.95",
+            "cal": "616"
+        },
+        {
+            "name": "Carne Asada Torta  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790069",
+            "price": "6.50",
+            "cal": "967"
+        },
+        {
+            "name": "Carnitas Quesadilla  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790070",
+            "price": "5.95",
+            "cal": "994"
+        },
+        {
+            "name": "La Cantina Burrito  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790071",
+            "price": "6.95",
+            "cal": "1013"
+        },
+        {
+            "name": "Pines Cantina Taco  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790072",
+            "price": "2.95",
+            "diet": "gluten friendly item",
+            "cal": "472"
+        },
+        {
+            "name": "Pines Torta  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790073",
+            "price": "7.25",
+            "cal": "1295"
+        },
+        {
+            "name": "Quesadilla  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790074",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": "603"
+        },
+        {
+            "name": "Taco Salad  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790075",
+            "price": "6.65",
+            "diet": "vegetarian item",
+            "cal": "1206"
+        },
+        {
+            "name": "Aztec Pinto Beans  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790076",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": "147"
+        },
+        {
+            "name": "Cilantro Rice  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790077",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": "123"
+        },
+        {
+            "name": "Artichoke and Feta Pizza  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790078",
+            "price": "2.50",
+            "diet": "vegetarian item",
+            "cal": "371"
+        },
+        {
+            "name": "Caprese Pizza  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790079",
+            "price": "2.75",
+            "diet": "vegetarian item",
+            "cal": "325"
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790080",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": "370"
+        },
+        {
+            "name": "Char Siu Whole Grian Rice Bowl  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790081",
+            "price": "4.95",
+            "cal": "715"
+        },
+        {
+            "name": "Garlic Bread  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790082",
+            "price": "0.55",
+            "diet": "vegetarian item",
+            "cal": "329"
+        },
+        {
+            "name": "Sauteed Bok Choy w/ Mushrooms  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790083",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": "31"
+        },
+        {
+            "name": "Sauteed Broccolini  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790084",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": "104"
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790085",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": "304"
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790086",
+            "price": "3.50",
+            "cal": "111"
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790089",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": "53"
+        },
+        {
+            "name": "Choose Your Curry  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790090",
+            "price": "6.95",
+            "cal": "762"
+        },
+        {
+            "name": "California Roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790091",
+            "price": "6.95",
+            "cal": "350"
+        },
+        {
+            "name": "Crunchy Shrimp Philly Roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790092",
+            "price": "6.95",
+            "cal": "477"
+        },
+        {
+            "name": "Spicy Krab Dynamite roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790093",
+            "price": "6.95",
+            "cal": "650"
+        },
+        {
+            "name": "Tofu and Avocado Roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790094",
+            "price": "6.95",
+            "diet": "vegan item",
+            "cal": "302"
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790095",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": "200"
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790096",
+            "price": "4.50",
+            "cal": "657"
+        },
+        {
+            "name": "Sweet Potato Fries  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790097",
+            "price": "2.75",
+            "diet": "vegan item",
+            "cal": "201"
+        },
+        {
+            "name": "Crispy Baja Fish Tacos  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790098",
+            "price": "4.95",
+            "cal": "830"
+        },
+        {
+            "name": "Aztec Black Beans  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790099",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": "109"
+        },
+        {
+            "name": "Roasted Vegetables  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790100",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": "57"
+        },
+        {
+            "name": "Artichoke and Feta Pizza  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790101",
+            "price": "2.50",
+            "diet": "vegetarian item",
+            "cal": "371"
+        },
+        {
+            "name": "Caprese Pizza  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790102",
+            "price": "2.75",
+            "diet": "vegetarian item",
+            "cal": "325"
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790103",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": "370"
+        },
+        {
+            "name": "Tuscan Chicken with Cannellini Beans  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790104",
+            "price": "4.95",
+            "diet": "gluten friendly item",
+            "cal": "347"
+        },
+        {
+            "name": "Garlic Bread  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790105",
+            "price": "0.55",
+            "diet": "vegetarian item",
+            "cal": "329"
+        },
+        {
+            "name": "Zucchini Provencal  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790106",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": "67"
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790107",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": "304"
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790108",
+            "price": "3.50",
+            "cal": "111"
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790109",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": "53"
+        },
+        {
+            "name": "Choose Your Curry  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790110",
+            "price": "6.95",
+            "cal": "762"
+        },
+        {
+            "name": "California Roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790111",
+            "price": "6.95",
+            "cal": "350"
+        },
+        {
+            "name": "Crunchy Shrimp Philly Roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790112",
+            "price": "6.95",
+            "cal": "477"
+        },
+        {
+            "name": "Spicy Krab Dynamite roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790113",
+            "price": "6.95",
+            "cal": "650"
+        },
+        {
+            "name": "Tofu and Avocado Roll  ",
+            "loc": "Pines",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240790114",
+            "price": "6.95",
+            "diet": "vegan item",
+            "cal": "302"
+        },
+        {
+            "name": "Oatmeal Station with toppings  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804940",
+            "price": "2.95",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Individual Halal Pepperoni Egg and Cheese Breakfast Pizza  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804938",
+            "price": "8.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian Breakfast Pizza  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804939",
+            "price": "8.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bagel Bar with Smoked Salmon  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804941",
+            "price": "6.95",
+            "cal": ""
+        },
+        {
+            "name": "Acai Bowl  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804942",
+            "price": "7.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Lemon Caper Cream Cheese  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804943",
+            "price": "1.00",
+            "cal": ""
+        },
+        {
+            "name": "Nutella Gone Bananas Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804944",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pomegranate Berry Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804945",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Sundried Tomato & Spinach Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804946",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Sweet Chipotle Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804947",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Apple Kale Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804948",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pomegranate Blueberry Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804949",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Strawberry Mango Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804950",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bengali Salmon  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804996",
+            "price": "8.50",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Kerala Chicken  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804997",
+            "price": "6.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Arugula & Fennel Salad  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804998",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Indian Sweet Potato & Chickpea  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804999",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Lemon Basmati Rice  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805000",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Broccolini with Tomatoes  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805001",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Sauteed Edamame and Kale  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805002",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Lentil & Kale Stew  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805003",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804987",
+            "price": "3.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Margherita  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804988",
+            "price": "3.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804989",
+            "price": "4.25",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804990",
+            "price": "3.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Buffalo Chicken Pizza, Sliced  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804991",
+            "price": "4.00",
+            "cal": ""
+        },
+        {
+            "name": "Fire Roasted Torrey's Chicken Wings  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804992",
+            "price": "9.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Garlic Cuscinos ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804993",
+            "price": "Pillows",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Margherita  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804994",
+            "price": "17.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804995",
+            "price": "17.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "3rd Kitchen House Salad  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804951",
+            "price": "6.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fattoush Greek Salad  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804952",
+            "price": "6.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Jalapeno Kale Caesar  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804953",
+            "price": "6.50",
+            "cal": ""
+        },
+        {
+            "name": "Power House  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804954",
+            "price": "6.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Thai Salad  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804955",
+            "price": "6.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Strawberry Spinach  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804956",
+            "price": "6.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Artichoke & Spinach",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804971",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cattleman",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804972",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804973",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Artichoke",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804974",
+            "cal": ""
+        },
+        {
+            "name": "Margherita  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804975",
+            "price": "7.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Mushroom & Sausage",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804976",
+            "cal": ""
+        },
+        {
+            "name": "Southwest",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804977",
+            "cal": ""
+        },
+        {
+            "name": "The 4.0  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804978",
+            "price": "8.50",
+            "cal": ""
+        },
+        {
+            "name": "The Full Ride  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804979",
+            "price": "10.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804980",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Napoletana Caputo",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804981",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Wheat",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804982",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Basil Pesto",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804983",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cauliflower White",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804984",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "San Marzano Tomato",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804985",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Sriracha Marinara",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240804986",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Acai Bowl  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805004",
+            "price": "7.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Nutella Gone Bananas Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805005",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pomegranate Berry Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805006",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Sundried Tomato & Spinach Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805007",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Sweet Chipotle Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805008",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Apple Kale Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805009",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pomegranate Blueberry Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805010",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Strawberry Mango Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805011",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bengali Salmon  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805036",
+            "price": "8.50",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Kerala Chicken  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805037",
+            "price": "6.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Arugula & Fennel Salad  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805038",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Indian Sweet Potato & Chickpea  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805039",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Lemon Basmati Rice  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805040",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Broccolini with Tomatoes  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805041",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Sauteed Edamame and Kale  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805042",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Lentil & Kale Stew  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805043",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Fire Roasted Torrey's Chicken Wings  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805034",
+            "price": "9.00",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Garlic Cuscinos ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805035",
+            "price": "Pillows",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Artichoke & Spinach",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805018",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cattleman",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805019",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805020",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chicken Artichoke",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805021",
+            "cal": ""
+        },
+        {
+            "name": "Margherita  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805022",
+            "price": "7.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Mushroom & Sausage",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805023",
+            "cal": ""
+        },
+        {
+            "name": "Southwest",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805024",
+            "cal": ""
+        },
+        {
+            "name": "The 4.0  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805025",
+            "price": "8.50",
+            "cal": ""
+        },
+        {
+            "name": "The Full Ride  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805026",
+            "price": "10.50",
+            "cal": ""
+        },
+        {
+            "name": "Vegetarian",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805027",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Napoletana Caputo",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805028",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Wheat",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805029",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Basil Pesto",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805030",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cauliflower White",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805031",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "San Marzano Tomato",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805032",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Spicy Sriracha Marinara",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805033",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Acai Bowl  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805044",
+            "price": "7.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Nutella Gone Bananas Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805045",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pomegranate Berry Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805046",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Sundried Tomato & Spinach Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805047",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Sweet Chipotle Spread  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805048",
+            "price": "1.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Apple Kale Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805049",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pomegranate Blueberry Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805050",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Strawberry Mango Smoothie  ",
+            "loc": "OceanView",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240805051",
+            "price": "6.00",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806652",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Breakfast Burrito Vegetarian w/o Protein  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806653",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Dietitian's Delight  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806654",
+            "price": "3.95",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Ham Scramble Skillet  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806655",
+            "price": "2.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Side  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806656",
+            "price": "0.85",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Beans  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806657",
+            "price": "1.65",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Biscuit  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806658",
+            "price": "0.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cage Free Scrambled Eggs  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806659",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Tortillas  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806660",
+            "price": "0.45",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hash Brown Potatoes  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806661",
+            "price": "1.65",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Pork Sausage Links Side  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806662",
+            "price": "0.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Sausage Gravy  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806663",
+            "price": "0.50",
+            "cal": ""
+        },
+        {
+            "name": "Scrambled Egg Whites  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806664",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806665",
+            "price": "1.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Texas French Toast ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806666",
+            "price": "1",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sausage  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806667",
+            "price": "1.09",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cut Fresh Fruit  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806668",
+            "price": "0.34",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Apple  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806669",
+            "price": "0.79",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Banana  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806670",
+            "price": "0.49",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Orange  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806671",
+            "price": "0.59",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Yogurt Bar  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806672",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bean and Cheese Burrito  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806673",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chop Chop Salmon Bowl  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806674",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Basmati Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806675",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Steamed Brown Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806676",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Vegetable Potsticker  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806677",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "City Dish Roasted Chicken  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806678",
+            "price": "4.75",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Cauliflower  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806679",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Soy Ginger Broccoli  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806680",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Deli Station Turkey  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806681",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806682",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806683",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806684",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806685",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806686",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806687",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806688",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806689",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Herbed Chicken Sandwich  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806690",
+            "price": "5.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806691",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806692",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806693",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Sausage & Mushroom Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806694",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806695",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806696",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "BYO Pasta Bar ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806698",
+            "price": "Alfredo Nutritional Sample",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bowtie Pasta  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806699",
+            "price": "2.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Alfredo Sauce",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806700",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Garlic Bread  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806701",
+            "price": "0.55",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Marinara Sauce",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806702",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Pesto Sauce",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806703",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806704",
+            "price": "2.25",
+            "cal": ""
+        },
+        {
+            "name": "Chop Chop Salmon Bowl  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806705",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Basmati Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806706",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Steamed Brown Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806707",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "City Dish Roasted Chicken  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806708",
+            "price": "4.75",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled New York Steak Strip  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806709",
+            "price": "8.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Cauliflower  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806710",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Soy Ginger Broccoli  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806711",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806712",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806713",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806714",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806715",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806716",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806717",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806718",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806719",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Herbed Chicken Sandwich  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806720",
+            "price": "5.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806721",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806722",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806723",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Sausage & Mushroom Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806724",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806725",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806726",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Penne Pasta with Spicy Marinara  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806728",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806729",
+            "price": "2.25",
+            "cal": ""
+        },
+        {
+            "name": "Bobcat Breakfast Sandwich w/ Ham  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806652",
+            "price": "3.95",
+            "cal": ""
+        },
+        {
+            "name": "Breakfast Burrito Vegetarian w/o Protein  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806653",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Dietitian's Delight  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806654",
+            "price": "3.95",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Ham Scramble Skillet  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806655",
+            "price": "2.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Bacon Side  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806656",
+            "price": "0.85",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Beans  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806657",
+            "price": "1.65",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Biscuit  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806658",
+            "price": "0.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cage Free Scrambled Eggs  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806659",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Tortillas  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806660",
+            "price": "0.45",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hash Brown Potatoes  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806661",
+            "price": "1.65",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Pork Sausage Links Side  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806662",
+            "price": "0.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Sausage Gravy  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806663",
+            "price": "0.50",
+            "cal": ""
+        },
+        {
+            "name": "Scrambled Egg Whites  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806664",
+            "price": "1.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Steelcut Oatmeal  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806665",
+            "price": "1.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Texas French Toast ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806666",
+            "price": "1",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Veggie Sausage  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806667",
+            "price": "1.09",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Cut Fresh Fruit  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806668",
+            "price": "0.34",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Apple  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806669",
+            "price": "0.79",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Banana  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806670",
+            "price": "0.49",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Whole Orange  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806671",
+            "price": "0.59",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Yogurt Bar  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806672",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bean and Cheese Burrito  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806673",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Chop Chop Salmon Bowl  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806674",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Basmati Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806675",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Steamed Brown Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806676",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Vegetable Potsticker  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806677",
+            "price": "3.95",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "City Dish Roasted Chicken  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806678",
+            "price": "4.75",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Cauliflower  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806679",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Soy Ginger Broccoli  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806680",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Deli Station Turkey  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806681",
+            "price": "6.75",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806682",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806683",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806684",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806685",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806686",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806687",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806688",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806689",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Herbed Chicken Sandwich  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806690",
+            "price": "5.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806691",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806692",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806693",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Sausage & Mushroom Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806694",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806695",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806696",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806697",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "BYO Pasta Bar ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806698",
+            "price": "Alfredo Nutritional Sample",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Bowtie Pasta  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806699",
+            "price": "2.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Alfredo Sauce",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806700",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Garlic Bread  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806701",
+            "price": "0.55",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Marinara Sauce",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806702",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Pesto Sauce",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806703",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806704",
+            "price": "2.25",
+            "cal": ""
+        },
+        {
+            "name": "Chop Chop Salmon Bowl  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806705",
+            "price": "7.25",
+            "cal": ""
+        },
+        {
+            "name": "Basmati Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806706",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Steamed Brown Rice  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806707",
+            "price": "1.50",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "City Dish Roasted Chicken  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806708",
+            "price": "4.75",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled New York Steak Strip  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806709",
+            "price": "8.95",
+            "diet": "gluten friendly item",
+            "cal": ""
+        },
+        {
+            "name": "Roasted Cauliflower  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806710",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Soy Ginger Broccoli  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806711",
+            "price": "2.00",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806712",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Chipotle Black Bean Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806713",
+            "price": "5.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Double Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806714",
+            "price": "6.25",
+            "cal": ""
+        },
+        {
+            "name": "Double Cheeseburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806715",
+            "price": "7.75",
+            "cal": ""
+        },
+        {
+            "name": "Fried Chicken Fritters  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806716",
+            "price": "4.50",
+            "cal": ""
+        },
+        {
+            "name": "Gardein Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806717",
+            "price": "5.25",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Grilled Turkey Burger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806718",
+            "price": "5.25",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806719",
+            "price": "4.20",
+            "cal": ""
+        },
+        {
+            "name": "Herbed Chicken Sandwich  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806720",
+            "price": "5.25",
+            "diet": "dietitian approved item",
+            "cal": ""
+        },
+        {
+            "name": "Crispy French Fries  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806721",
+            "price": "1.75",
+            "diet": "vegan item",
+            "cal": ""
+        },
+        {
+            "name": "Cheese Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806722",
+            "price": "2.25",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Pepperoni Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806723",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Sausage & Mushroom Pizza  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806724",
+            "price": "2.50",
+            "cal": ""
+        },
+        {
+            "name": "Coconut Lentil Soup  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806725",
+            "price": "3.50",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Old Fashioned Chicken Noodle  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806726",
+            "price": "3.50",
+            "cal": ""
+        },
+        {
+            "name": "Fresh Salad Bar  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806727",
+            "price": "0.34",
+            "diet": "vegetarian item",
+            "cal": ""
+        },
+        {
+            "name": "Penne Pasta with Spicy Marinara  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806728",
+            "price": "4.95",
+            "cal": ""
+        },
+        {
+            "name": "Hamburger  ",
+            "loc": "Café Ventanas",
+            "nutLink": "https://hdh.ucsd.edu/DiningMenus/nutritionfacts.aspx?i=240806729",
+            "price": "2.25",
+            "cal": ""
+        }
+    ]
+}
