@@ -115,8 +115,53 @@ app.get('/scrape', function(req, res){
 
 });
 
+app.get('/iterate', function(req, res) {
+    var file = require("./fuck.json");
+    var obj = file.fuck;
+    for(var ind in obj){
+        console.log( "name: " + obj[ind].name);
+    }
+
+    res.send("lol.")
+
+});
+
+app.get('/convert', function(req, res) {
+
+    var sqlite3 = require('sqlite3').verbose();
+    var db = new sqlite3.Database('tab');
+
+    var json = require("./fuck.json");
+    var foods = json.fuck;
+    db.serialize(function() {
+        db.run("CREATE TABLE tab (name TEXT, loc TEXT, cal TEXT, price TEXT, diet TEXT)");
+
+        var stmt = db.prepare("INSERT INTO tab VALUES (?,?,?,?,?)");
+
+        for(var ind in foods){
+            var n = foods[ind].name;
+            var l = foods[ind].loc;
+            var c = foods[ind].cal;
+            var p = foods[ind].price;
+            var d = foods[ind].diet;
+
+            stmt.run(n, l, c, p, d);
+        }
+        stmt.finalize();
+
+        db.each("SELECT name, loc FROM tab", function(err, row) {
+            console.log("food: "+ row.name + "|| loc: " + row.loc);
+        });
+    });
+
+    db.close();
+
+    res.send('Check your console.')
+
+});
+
 app.listen('8081')
 
-console.log('Magic happens on port 8081');
+console.log('listening on port 8081');
 
 module.exports = app;

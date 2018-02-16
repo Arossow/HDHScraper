@@ -13,6 +13,7 @@
     "cheerio": "^1.0.0-rc.2",
     "cookie-parser": "~1.4.3",
     "csv-write-stream": "^2.0.0",
+    "sqlite3": "latest",
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "hbs": "~4.0.1",
