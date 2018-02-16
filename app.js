@@ -9,7 +9,6 @@ var request = require('request');
 var cheerio = require('cheerio');
 var index = require('./routes/index');
 var users = require('./routes/users');
-var csvWriter = require('csv-write-stream')
 
 var app = express();
 
@@ -43,49 +42,49 @@ var restaurants = [
     oceanViewTerrace
 ];
 
+/**
+ * Main scraper page and function. This function iterates through the hdh restaurant sites and gathers menu items.
+ * TODO: add Roots, 64 North, The Bistro.
+ */
 app.get('/scrape', function(req, res){
 
-    var writer = csvWriter();
-
-
-    var jsonTemp = {
-        "name": "food",
-        "loc": "loc",
-        "cal": "1",
-        "price": "1",
-        "diet": "veg"
-    };
-
-
+    //bigObj is the array that will hold food data in JSON file.
     var bigObj = {table : []};
 
+    //This loop iterates through restaurants and adds each food item on the menu.
     for(i = 0; i <= 5; i++) {
-        var url = restaurants[i];
 
+        //Set url to restaurant in restaurant array.
+        var url = restaurants[i];
         request(url, function (error, response, html) {
             if (!error) {
-                var $ = cheerio.load(html);
 
+                //Use cheerio to load page
+                var $ = cheerio.load(html);
+                //Select element with id of location (e.g. Pines, Foodworx, etc.)
                 var loc = $('#HoursLocations_locationName').text();
 
+                //For each list item in unorder menu list, get item string with name and price/
                 $('ul[class="itemList"] > li > a[href]').each(function (i, e) {
 
+                    //unorganized Item Name ($price).
                     var data = $(this).text();
 
+                    //split item by parenthesis and $.
                     var itemDetails = data.toString().split(/[()$]+/)
                     var name = itemDetails[0];
                     var price = itemDetails[1];
 
-                    //console.log(itemDetails);
-
+                    //Get this <a>'s href and store in link.
                     var link = $(this).attr('href');
-                    //console.log(loc);
-                    console.log(name + "\t\t" + link);
 
+                    //get the next element after <a> which is <img> and get alt description (Vegetarian, Vegan, etc.)
                     var veg = $(this).next().attr('alt');
 
+                    //Construct a full URL from the relative link gather from <a>.
                     var fullLink = "https://hdh.ucsd.edu/DiningMenus/" + link.toString();
-                    console.log("\t\t" + fullLink);
+
+                    //Create a JS object with the scraped values.
                     var myObj = {
                         name: name,
                         loc: loc,
@@ -95,12 +94,14 @@ app.get('/scrape', function(req, res){
                         cal: ""
                     };
 
+                    //add the JS object to the table
                     bigObj.table.push(myObj);
 
+                    //Print object values to console
                     //console.log("name: " + name + "\n      price: " + price + "\n      link:  " + fullLink + "\n      loc:   " + loc + "\n      alt:   " + veg + "\n");
                     //console.log("table size: " + bigObj.table.length);
 
-
+                    //write table to json file.
                     fs.writeFile('final2.json', JSON.stringify(bigObj, null, 4), function(err){
                        // console.log(name + " was added to fuck.json");
                     })
@@ -113,14 +114,16 @@ app.get('/scrape', function(req, res){
         })
 
     }
-// Finally, we'll just send out a message to the browser reminding you that this app does not have a UI.
-    res.send('Check your console!')
-
+    //Output to browser
+    res.send('Check the console.')
 });
 
+/**
+ * Testing iteration through the json file
+ */
 app.get('/iterate', function(req, res) {
-    var file = require("./fuck.json");
-    var obj = file.fuck;
+    var file = require("./final2.json");
+    var obj = file.table;
     for(var ind in obj){
         console.log( "name: " + obj[ind].name);
     }
@@ -129,8 +132,11 @@ app.get('/iterate', function(req, res) {
 
 });
 
+/**
+ * Scraper that goes through each json objects full link and scrapes calorie data.
+ */
 app.get('/calories', function(req, res) {
-    var file = require("./final.json");
+    var file = require("./final2.json");
     var obj = file.table;
     for (var ind in obj) {
         var myObj = obj[ind];
@@ -154,6 +160,9 @@ app.get('/calories', function(req, res) {
     res.send("check log pls.");
 });
 
+/**
+ * Converting the json file to sqlite table.
+ */
 app.get('/convert', function(req, res) {
 
     var sqlite3 = require('sqlite3').verbose();
