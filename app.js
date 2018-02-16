@@ -27,6 +27,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', index);
 app.use('/users', users);
 
+//TODO: add Roots, The Bistro, 64 North
 var sixtyFour ='https://hdh.ucsd.edu/DiningMenus/default.aspx?i=64';
 var pines = 'https://hdh.ucsd.edu/DiningMenus/default.aspx?i=01';
 var canyonVista = 'https://hdh.ucsd.edu/DiningMenus/default.aspx?i=24';
@@ -44,7 +45,6 @@ var restaurants = [
 
 /**
  * Main scraper page and function. This function iterates through the hdh restaurant sites and gathers menu items.
- * TODO: add Roots, 64 North, The Bistro.
  */
 app.get('/scrape', function(req, res){
 
@@ -76,6 +76,7 @@ app.get('/scrape', function(req, res){
                     var price = itemDetails[1];
 
                     //Get this <a>'s href and store in link.
+                    //TODO: fix href
                     var link = $(this).attr('href');
 
                     //get the next element after <a> which is <img> and get alt description (Vegetarian, Vegan, etc.)
@@ -134,15 +135,23 @@ app.get('/iterate', function(req, res) {
 
 /**
  * Scraper that goes through each json objects full link and scrapes calorie data.
+ * TODO: fix selector to get calorie data, verify link is correct.
  */
 app.get('/calories', function(req, res) {
+
+    //Get food array from json file
     var file = require("./final2.json");
     var obj = file.table;
+
+    //For each food item in json file.
     for (var ind in obj) {
+
+        //get the link from the object
         var myObj = obj[ind];
-        //console.log("food item: " + myObj.name);
         var url = obj[ind].nutLink;
         console.log("url: " + url);
+
+        //From the url...
         request(url, function (error, response, html) {
             if (!error) {
                 var $ = cheerio.load(html);
@@ -165,8 +174,10 @@ app.get('/calories', function(req, res) {
  */
 app.get('/convert', function(req, res) {
 
+
     var sqlite3 = require('sqlite3').verbose();
     var db = new sqlite3.Database('data.db');
+
 
     var json = require("./final2.json");
     var foods = json.table;
